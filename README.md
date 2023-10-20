@@ -49,7 +49,8 @@ pagode
 ```
 
 #### Saida:
-> Horas úteis em 2023-10: 168 horas - Serviço; R$ 18,480  
+> Horas úteis em 2023-10: 168 horas - Serviço; R$ 18,480 
+ 
 > Total anual: R$ 221,760  
 
 
