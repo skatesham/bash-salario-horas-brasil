@@ -1,0 +1,1 @@
+# bash-salario-horas-brasil
